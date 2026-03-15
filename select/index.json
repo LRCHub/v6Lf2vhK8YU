@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "線香金魚",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-03-15T09:59:45.863825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "線香金魚",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/01_線香金魚_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "線香金魚",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_線香金魚_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
